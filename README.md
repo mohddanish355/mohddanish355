@@ -1,9 +1,9 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Mohd Danish</h1>
-<h3 align="center">🚀 MERN Stack Developer | 💻 Cloud & AI Enthusiast | 🎓 B.Tech CSE Student</h3>
+<h3 align="center">🚀 MERN Stack Developer | 🎓 B.Tech CSE Student</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-profile-image.png" alt="Profile Picture" width="150" height="150" style="border-radius:50%">
+  <img src="https://user-images.githubusercontent.com/mohddanish355.png" alt="Profile Picture" width="150" height="150" style="border-radius:50%">
 </p>
 
 ---
@@ -43,7 +43,7 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mohddanish355&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+ <!-- <img height="180" src="https://github-readme-stats.vercel.app/api?username=mohddanish355&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/> -->
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohddanish355&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
@@ -72,7 +72,7 @@
 ## 📫 Connect With Me
 <p align="center">
   <a href="mailto:danish77355@gmail.com.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+ <!-- <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> -->
 </p>
 
 ---
