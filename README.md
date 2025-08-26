@@ -3,7 +3,7 @@
 <h3 align="center">🚀 MERN Stack Developer | 🎓 B.Tech CSE Student</h3>
 
 <p align="center">
-  <img src="https://github.com/mohddanish355.png" alt="Profile Picture" width="150" height="150" style="border-radius:50%">
+ <!-- <img src="https://github.com/mohddanish355.png" alt="Profile Picture" width="150" height="150" style="border-radius:50%"> -->
 </p>
 
 ---
